@@ -1,6 +1,6 @@
 # 🔬 Mal_scanner v2.0.0
 > **Signature-Based Malware Detection Tool**  
-> *Author: Yx0R / Yash Gaikwad*
+> *Author: [Yx0R](https://github.com/Yx0R)*,  [Yash Gaikwad](https://yash-gaikwad.onrender.com) *
 
 ---
 
